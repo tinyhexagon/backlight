@@ -1,3 +1,3 @@
 default:
-	g++ ppm.cc -o C:/pixel/bin/ppm.exe
+	g++ backlight.cc -o C:/pixel/bin/bklt.exe
 	cls
